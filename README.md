@@ -15,7 +15,7 @@
 
 ## Contacts
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://cerulehasgranule.tistory.com/)](https://cerulehasgranule.tistory.com/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hyesuc.seo@gmail.com)](mailto:hyesuc.seo@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hyesuseo.dev@gmail.com)](mailto:hyesuseo.dev@gmail.com)
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:hyesuc_seo@naver.com)](mailto:hyesuc_seo@naver.com)
 
 
